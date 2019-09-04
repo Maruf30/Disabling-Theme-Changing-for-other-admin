@@ -1,0 +1,1 @@
+# Disabling-Theme-Changing-for-other-admin
